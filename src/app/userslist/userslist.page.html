@@ -1,9 +1,23 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>userslist</ion-title>
+    <ion-title>Dinos</ion-title>
+    <ion-buttons slot="start">
+      <ion-back-button
+        defaultHref="home"
+        text=""
+        icon="chevron-back-outline"
+      ></ion-back-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-
+<ion-list>
+  <ion-item  *ngFor="let dino of dinos" [routerLink]="['/profile/' +dino.id]" (click)="hola(dino.id)">
+    <ion-avatar slot="start">
+      <img src="{{dino.img}}" alt="">
+    </ion-avatar>
+<ion-label>{{dino.name}}</ion-label>
+  </ion-item>
+</ion-list>
 </ion-content>
