@@ -6,10 +6,23 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./profile.page.scss'],
 })
 export class ProfilePage implements OnInit {
+  id: string
+  nombre:string
+  type:string
+  diet:string
+  era:string
+  found:string
+  img:string
 
-  constructor() { }
+  constructor() {}
 
   ngOnInit() {
+  this.id= localStorage.getItem('id')
+  this.nombre = localStorage.getItem('name')
+  this.type = localStorage.getItem('type')
+  this.diet = localStorage.getItem('diet')
+  this.era = localStorage.getItem('era')
+  this.found = localStorage.getItem('found')
+  this.img = localStorage.getItem('img')
   }
-
 }

@@ -12,12 +12,22 @@
 </ion-header>
 
 <ion-content>
-<ion-list>
-  <ion-item  *ngFor="let dino of dinos" [routerLink]="['/profile/' +dino.id]" (click)="hola(dino.id)">
-    <ion-avatar slot="start">
-      <img src="{{dino.img}}" alt="">
-    </ion-avatar>
-<ion-label>{{dino.name}}</ion-label>
-  </ion-item>
-</ion-list>
+  <ion-grid>
+    <ion-row>
+      <ion-col sizeMd="4" offsetMd="4">
+      <ion-list>
+        <ion-item
+          *ngFor="let dino of dinos"
+          [routerLink]="['/profile/' +dino.id]"
+          (click)="hola(dino.id,dino.name,dino.is_dino,dino.diet,dino.era,dino.found,dino.img)"
+        >
+          <ion-avatar slot="start">
+            <img src="{{dino.img}}" alt="" />
+          </ion-avatar>
+          <ion-label>{{dino.name}}</ion-label>
+        </ion-item>
+      </ion-list>
+    </ion-col>
+    </ion-row>
+  </ion-grid>
 </ion-content>

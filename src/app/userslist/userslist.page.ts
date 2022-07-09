@@ -18,12 +18,16 @@ export class UserslistPage implements OnInit {
       .subscribe((res) => {
         this.dinos = res;
         console.log('Entrando data ' + this.dataEntrante);
-        let valorBuscado = 1;
-        const resultado = this.dinos.find((dino) => dino.id === valorBuscado);
-        console.log(resultado);
+
       });
   }
-  hola(id){
-    console.log(id)
+  hola(id,name,type,diet,era,found,img){
+    localStorage.setItem("id",id)
+    localStorage.setItem("name",name)
+    localStorage.setItem("type",type)
+    localStorage.setItem("diet",diet)
+    localStorage.setItem("era", era)
+    localStorage.setItem("found",found)
+    localStorage.setItem("img", img)
   }
 }
