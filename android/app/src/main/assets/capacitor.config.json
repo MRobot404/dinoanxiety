@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "dinoanxietyapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

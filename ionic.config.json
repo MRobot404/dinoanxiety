@@ -1,5 +1,7 @@
 {
   "name": "dinoanxietyapp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
