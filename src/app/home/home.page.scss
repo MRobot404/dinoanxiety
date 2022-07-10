@@ -9,19 +9,42 @@
 }
 
 #container strong {
-  font-size: 20px;
+  font-size: 1.2rem;
   line-height: 26px;
+  font-family:  'Roboto Mono', monospace;
 }
 
 #container p {
-  font-size: 16px;
+  font-size: 1rem;
+  line-height: 22px;
+  font-family: 'Gemunu Libre', sans-serif;
+  color: whitesmoke;
+  margin: 0;
+  padding: 2%;
+}
+
+#container a {
+ text-align: center;
+}
+ion-button{
+margin-top: 3%;
+color: whitesmoke;
+}
+
+#footer-title{
+  font-size: 15px;
+}
+
+#foot{
+  font-size: 9px;
   line-height: 22px;
 
   color: #8c8c8c;
 
   margin: 0;
 }
-
-#container a {
-  text-decoration: none;
+#title{
+  margin-left: 1rem;
+  font-size: 2rem;
+  font-family:'Edu NSW ACT Foundation', cursive;
 }
