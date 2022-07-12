@@ -1,0 +1,1740 @@
+[
+  {
+    "id": 1,
+    "name": "aardonyx",
+    "is_dino": "prosaurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico temprano",
+    "found": "Sudáfrica",
+    "img": "https://es-academic.com/pictures/eswiki/65/Aardonyx_celestae_by_karkemish00.jpg"
+  },
+  {
+    "id": 2,
+    "name": "abelisaurus",
+    "is_dino": "large theropod",
+    "diet": "carnivorous",
+    "era": "Late Cretaceous",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/abeli.jpg"
+  },
+  {
+    "id": 3,
+    "name": "achelousaurus",
+    "is_dino": "ceratopsian",
+    "diet": "herbivorous",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/achelou.jpg"
+  },
+  {
+    "id": 4,
+    "name": "achillobator",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Achillobator.jpg"
+  },
+  {
+    "id": 5,
+    "name": "acrocanthosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/acrocantho.jpg"
+  },
+  {
+    "id": 6,
+    "name": "aegyptosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Egipto",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/aegypto.jpg"
+  },
+  {
+    "id": 7,
+    "name": "afrovenator",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico temprano ",
+    "found": "Nígeria",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/afrovenator.jpg"
+  },
+  {
+    "id": 8,
+    "name": "agilisaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alamo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "alamosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alamo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "albertaceratops",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/albertaceratops.jpg"
+  },
+  {
+    "id": 11,
+    "name": "albertosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/albert.jpg"
+  },
+  {
+    "id": 12,
+    "name": "alectrosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "china , mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alectro.jpg"
+  },
+  {
+    "id": 13,
+    "name": "alioramus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Alioramus.jpg"
+  },
+  {
+    "id": 14,
+    "name": "allosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Jurásico tardío",
+    "found": "Portugal , Estados Unidos",
+    "img": "http://www.tododinosaurios.com/blog/wp-content/uploads/2014/07/Alosaurio-de-Papo.jpg"
+  },
+  {
+    "id": 15,
+    "name": "alvarezsaurus",
+    "is_dino": "pequeño",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alvarez.jpg"
+  },
+  {
+    "id": 16,
+    "name": "amargasaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico temprano",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Amargasaurus.jpg"
+  },
+  {
+    "id": 17,
+    "name": "ammosaurus",
+    "is_dino": "prosaurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico temprano",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/ammo.jpg"
+  },
+  {
+    "id": 18,
+    "name": "ampelosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Francia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Ampelosaurus.jpg"
+  },
+  {
+    "id": 19,
+    "name": "amygdalodon",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico medio",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Amygdalodon.jpg"
+  },
+  {
+    "id": 20,
+    "name": "anchiceratops",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi2.jpg"
+  },
+  {
+    "id": 21,
+    "name": "anchisaurus",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior ",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi2.jpg"
+  },
+  {
+    "id": 22,
+    "name": "ankylosaurus",
+    "is_dino": "dinosaurio blindado",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/ankyl.jpg"
+  },
+  {
+    "id": 23,
+    "name": "anserimimus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anseri.jpg"
+  },
+  {
+    "id": 24,
+    "name": "antarctosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Argentina , Chile , Uruguay",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/antarcto.jpg"
+  },
+  {
+    "id": 25,
+    "name": "apatosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Apatosaurus.jpg"
+  },
+  {
+    "id": 26,
+    "name": "aragosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico temprano",
+    "found": "España",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aragosaurus.jpg"
+  },
+  {
+    "id": 27,
+    "name": "aralosaurus",
+    "is_dino": "gran ornitópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Kazajstán",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aralosaurus.jpg"
+  },
+  {
+    "id": 28,
+    "name": "archaeoceratops",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico temprano",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Archaeoceratops.jpg"
+  },
+  {
+    "id": 29,
+    "name": "archaeopteryx",
+    "is_dino": "pequeño",
+    "diet": "carnívoro",
+    "era": "Jurásico superior",
+    "found": "Alemania",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeo.jpg"
+  },
+  {
+    "id": 30,
+    "name": "archaeornithomimus",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "China , Uzbekistán",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeorn.jpg"
+  },
+  {
+    "id": 31,
+    "name": "argentinosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior ",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/argent.jpg"
+  },
+  {
+    "id": 32,
+    "name": "arrhinoceratops",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior ",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Arrhinoceratops.jpg"
+  },
+  {
+    "id": 33,
+    "name": "atlascopcosaurus",
+    "is_dino": "pequeño ornitópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico temprano",
+    "found": "Australia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Atlascopcosaurus.jpg"
+  },
+  {
+    "id": 34,
+    "name": "aucasaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro ",
+    "era": "Cretácico superior",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aucasaurus.jpg"
+  },
+  {
+    "id": 35,
+    "name": "austrosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico temprano ",
+    "found": "Australia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Austrosaurus.jpg"
+  },
+  {
+    "id": 36,
+    "name": "avaceratops",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro ",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Avaceratops.jpg"
+  },
+  {
+    "id": 37,
+    "name": "avimimus",
+    "is_dino": "pequeño terópodo",
+    "diet": "omnívoro",
+    "era": "Cretácico superior ",
+    "found": "china , mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/avim.jpg"
+  },
+  {
+    "id": 38,
+    "name": "bactrosaurus",
+    "is_dino": "gran ornitópodo",
+    "diet": "herbivorous",
+    "era": "Cretácico superior",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bactrosaurus.jpg"
+  },
+  {
+    "id": 39,
+    "name": "bagaceratops",
+    "is_dino": "ceratopsianoSIii",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bagaceratops.jpg"
+  },
+  {
+    "id": 40,
+    "name": "bambiraptor",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bambiraptor.jpg"
+  },
+  {
+    "id": 41,
+    "name": "barapasaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico temprano ",
+    "found": "India",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/barapa.jpg"
+  },
+  {
+    "id": 42,
+    "name": "barosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío",
+    "found": "tanzania , estados unidos de américa",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/baro.jpg"
+  },
+  {
+    "id": 43,
+    "name": "baryonyx",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico temprano ",
+    "found": "Inglaterra , España , Reino Unido",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/bary.jpg"
+  },
+  {
+    "id": 44,
+    "name": "becklespinax",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico temprano ",
+    "found": "Inglaterra , Reino Unido",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Becklespinax.jpg"
+  },
+  {
+    "id": 45,
+    "name": "beipiaosaurus",
+    "is_dino": "pequeño terópodo",
+    "diet": "omnívoro",
+    "era": "Cretácico temprano ",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Beipiaosaurus.jpg"
+  },
+  {
+    "id": 46,
+    "name": "bellusaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico medio",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bellusaurus.jpg"
+  },
+  {
+    "id": 47,
+    "name": "borogovia",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior ",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Borogovia.jpg"
+  },
+  {
+    "id": 48,
+    "name": "brachiosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro ",
+    "era": "Jurásico tardío ",
+    "found": "Argelia , Portugal , Tanzania , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/brach.jpg"
+  },
+  {
+    "id": 49,
+    "name": "brachylophosaurus",
+    "is_dino": "gran ornitópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior ",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Brachylophosaurus.jpg"
+  },
+  {
+    "id": 50,
+    "name": "brachytrachelopan",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico medio ",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Brachytrachelopan.jpg"
+  },
+  {
+    "id": 51,
+    "name": "buitreraptor",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Buitreraptor.jpg"
+  },
+  {
+    "id": 52,
+    "name": "camarasaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/camara.jpg"
+  },
+  {
+    "id": 53,
+    "name": "camptosaurus",
+    "is_dino": "gran ornitópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío",
+    "found": "Inglaterra , Reino Unido , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/campto.jpg"
+  },
+  {
+    "id": 54,
+    "name": "carcharodontosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnivorous",
+    "era": "Cretácico superior",
+    "found": "África del Norte",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carch.jpg"
+  },
+  {
+    "id": 55,
+    "name": "carnotaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro ",
+    "era": "Cretácico superior ",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carnoto.jpg"
+  },
+  {
+    "id": 56,
+    "name": "caudipteryx",
+    "is_dino": "pequeño terópodo",
+    "diet": "omnívoro",
+    "era": "Cretácico temprano ",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/caudip.jpg"
+  },
+  {
+    "id": 57,
+    "name": "cedarpelta",
+    "is_dino": "dinosaurio blindado",
+    "diet": "herbívoro",
+    "era": "Cretácico temprano",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Cedarpelta.jpg"
+  },
+  {
+    "id": 58,
+    "name": "centrosaurus",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/centro.jpg"
+  },
+  {
+    "id": 59,
+    "name": "ceratosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro ",
+    "era": "Jurásico tardío ",
+    "found": "Portugal , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cerato.jpg"
+  },
+  {
+    "id": 60,
+    "name": "cetiosauriscus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico medio",
+    "found": "Inglaterra , Reino Unido",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetios.jpg"
+  },
+  {
+    "id": 61,
+    "name": "cetiosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro ",
+    "era": "Jurásico medio",
+    "found": "Inglaterra , Reino Unido",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetio.jpg"
+  },
+  {
+    "id": 62,
+    "name": "chaoyangsaurus",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío ",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chaoyangsaurus.jpg"
+  },
+  {
+    "id": 63,
+    "name": "chasmosaurus",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior ",
+    "found": " Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/chasmo.jpg"
+  },
+  {
+    "id": 64,
+    "name": "chindesaurus",
+    "is_dino": "dinosaurio primitivo",
+    "diet": "carnívoro ",
+    "era": "Triásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chindesaurus.jpg"
+  },
+  {
+    "id": 65,
+    "name": "chinshakiangosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro ",
+    "era": "Jurásico tardío",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chinshakiangosaurus.jpg"
+  },
+  {
+    "id": 66,
+    "name": "chirostenotes",
+    "is_dino": "pequeño terópodo",
+    "diet": "omnívoro",
+    "era": "Jurásico tardío",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chirostenotes.jpg"
+  },
+  {
+    "id": 67,
+    "name": "chubutisaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico temprano",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chubutisaurus.jpg"
+  },
+  {
+    "id": 68,
+    "name": "chungkingosaurus",
+    "is_dino": "dinosaurio blindado",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chungkingosaurus.jpg"
+  },
+  {
+    "id": 69,
+    "name": "citipati",
+    "is_dino": "pequeño terópodo",
+    "diet": "omnívoro ",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Citipati.jpg"
+  },
+  {
+    "id": 70,
+    "name": "coelophysis",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro ",
+    "era": "Triásico superior",
+    "found": "Sudáfrica , Estados Unidos , Zimbabue",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coelo.jpg"
+  },
+  {
+    "id": 71,
+    "name": "coelurus",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Jurásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coelurus.jpg"
+  },
+  {
+    "id": 72,
+    "name": "coloradisaurus",
+    "is_dino": "prosaurópodo",
+    "diet": "omnívoro",
+    "era": "Triásico tardío",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Coloradisaurus.jpg"
+  },
+  {
+    "id": 73,
+    "name": "compsognathus",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Jurásico tardío",
+    "found": "Francia , Alemania",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Compsognathus.jpg"
+  },
+  {
+    "id": 74,
+    "name": "conchoraptor",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro ",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Conchoraptor.jpg"
+  },
+  {
+    "id": 75,
+    "name": "confuciusornis",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico temprano",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Confuciusornis.jpg"
+  },
+  {
+    "id": 76,
+    "name": "corythosaurus",
+    "is_dino": "gran ornitópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coryth.jpg"
+  },
+  {
+    "id": 77,
+    "name": "cryolophosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro ",
+    "era": "Jurásico temprano",
+    "found": "Antártida",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cryolopho.jpg"
+  },
+  {
+    "id": 78,
+    "name": "dacentrurus",
+    "is_dino": "dinosaurio blindado",
+    "diet": "herbívoro ",
+    "era": "Jurásico tardío",
+    "found": "Inglaterra , Francia , Portugal , Reino Unido",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dacentr.jpg"
+  },
+  {
+    "id": 79,
+    "name": "daspletosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro ",
+    "era": "Cretácico superior",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/daspelet.jpg"
+  },
+  {
+    "id": 80,
+    "name": "datousaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro ",
+    "era": "Jurásico medio ",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/datou.jpg"
+  },
+  {
+    "id": 81,
+    "name": "deinocheirus",
+    "is_dino": "gran terópodo",
+    "diet": "omnívoro ",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/deinoc.jpg"
+  },
+  {
+    "id": 82,
+    "name": "deinonychus",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico temprano ",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/deinon.jpg"
+  },
+  {
+    "id": 83,
+    "name": "deltadromeus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro ",
+    "era": "Cretácico superior",
+    "found": "Marruecos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Deltadromeus.jpg"
+  },
+  {
+    "id": 84,
+    "name": "dicraeosaurus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío ",
+    "found": "Tanzania",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dicraeosaurus.jpg"
+  },
+  {
+    "id": 85,
+    "name": "dilophosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro ",
+    "era": "Jurásico temprano",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dilopho.jpg"
+  },
+  {
+    "id": 86,
+    "name": "diplodocus",
+    "is_dino": "saurópodo",
+    "diet": "herbívoro",
+    "era": "Jurásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/diplo.jpg"
+  },
+  {
+    "id": 87,
+    "name": "dracorex",
+    "is_dino": "paquicefalosaurio",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dracorex.jpg"
+  },
+  {
+    "id": 88,
+    "name": "dromaeosaurus",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior ",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/droma.jpg"
+  },
+  {
+    "id": 89,
+    "name": "dromiceiomimus",
+    "is_dino": "gran terópodo",
+    "diet": "omnívoro",
+    "era": "Cretácico superior ",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dromic.jpg"
+  },
+  {
+    "id": 90,
+    "name": "dryosaurus",
+    "is_dino": "pequeño ornitópodo",
+    "diet": "herbívoro ",
+    "era": "Jurásico tardío ",
+    "found": "tanzania ",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dryo.jpg"
+  },
+  {
+    "id": 91,
+    "name": "dryptosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/drypto.jpg"
+  },
+  {
+    "id": 92,
+    "name": "dubreuillosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Jurásico tardío",
+    "found": "Francia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dubreuillosaurus.jpg"
+  },
+  {
+    "id": 93,
+    "name": "edmontonia",
+    "is_dino": "dinosaurio blindado",
+    "diet": "herbívoro",
+    "era": "Cretácico superior ",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Edmontonia.jpg"
+  },
+  {
+    "id": 94,
+    "name": "edmontosaurus",
+    "is_dino": "gran ornitópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/edmonto.jpg"
+  },
+  {
+    "id": 95,
+    "name": "einiosaurus",
+    "is_dino": "ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Einiosaurus.jpg"
+  },
+  {
+    "id": 96,
+    "name": "elaphrosaurus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Jurásico tardío",
+    "found": "Tanzania",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Elaphrosaurus.jpg"
+  },
+  {
+    "id": 97,
+    "name": "emausaurus",
+    "is_dino": "dinosaurio blindado",
+    "diet": " herbívoro ",
+    "era": "Jurásico medio",
+    "found": "Alemania",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Emausaurus.jpg" 
+  },
+  {
+    "id": 98,
+    "name": "eolambia",
+    "is_dino": "gran ornitópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior ",
+    "found": "EE.UU",
+    "img":"https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eolambia.jpg"
+  },
+  {
+    "id": 99,
+    "name": "eoraptor",
+    "is_dino": "pequeño terópodo",
+    "diet": "carnívoro",
+    "era": "Triásico superior",
+    "found": "Argentina",
+    "img":"https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/eor.jpg"
+  },
+  {
+    "id": 100,
+    "name": "eotyrannus",
+    "is_dino": "gran terópodo",
+    "diet": "carnívoro",
+    "era": "Cretácico temprano ",
+    "found": "Inglaterra , Reino Unido",
+    "img":"https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eotyrannus.jpg"
+  },
+  {
+    "id": 101,
+    "name": "equijubus",
+    "": ""
+  },
+  {
+    "id": 102,
+    "name": "erketu",
+    "": ""
+  },
+  {
+    "name": "erlikosaurus",
+    "": ""
+  },
+  {
+    "name": "euhelopus",
+    "": ""
+  },
+  {
+    "name": "euoplocephalus",
+    "": ""
+  },
+  {
+    "name": "europasaurus",
+    "": ""
+  },
+  {
+    "name": "eustreptospondylus",
+    "": ""
+  },
+  {
+    "name": "fukuiraptor",
+    "": ""
+  },
+  {
+    "name": "fukuisaurus",
+    "": ""
+  },
+  {
+    "name": "gallimimus",
+    "": ""
+  },
+  {
+    "name": "gargoyleosaurus",
+    "": ""
+  },
+  {
+    "name": "garudimimus",
+    "": ""
+  },
+  {
+    "name": "gasosaurus",
+    "": ""
+  },
+  {
+    "name": "gasparinisaura",
+    "": ""
+  },
+  {
+    "name": "gastonia",
+    "": ""
+  },
+  {
+    "name": "giganotosaurus",
+    "": ""
+  },
+  {
+    "name": "gilmoreosaurus",
+    "": ""
+  },
+  {
+    "name": "giraffatitan",
+    "": ""
+  },
+  {
+    "name": "gobisaurus",
+    "": ""
+  },
+  {
+    "name": "gorgosaurus",
+    "": ""
+  },
+  {
+    "name": "goyocephale",
+    "": ""
+  },
+  {
+    "name": "graciliceratops",
+    "": ""
+  },
+  {
+    "name": "gryposaurus",
+    "": ""
+  },
+  {
+    "name": "guaibasaurus",
+    "": ""
+  },
+  {
+    "name": "guanlong",
+    "": ""
+  },
+  {
+    "name": "hadrosaurus",
+    "": ""
+  },
+  {
+    "name": "hagryphus",
+    "": ""
+  },
+  {
+    "name": "haplocanthosaurus",
+    "": ""
+  },
+  {
+    "name": "harpymimus",
+    "": ""
+  },
+  {
+    "name": "herrerasaurus",
+    "": ""
+  },
+  {
+    "name": "hesperosaurus",
+    "": ""
+  },
+  {
+    "name": "heterodontosaurus",
+    "": ""
+  },
+  {
+    "name": "heyuannia",
+    "": ""
+  },
+  {
+    "name": "homalocephale",
+    "": ""
+  },
+  {
+    "name": "huayangosaurus",
+    "": ""
+  },
+  {
+    "name": "hylaeosaurus",
+    "": ""
+  },
+  {
+    "name": "hypacrosaurus",
+    "": ""
+  },
+  {
+    "name": "hypsilophodon",
+    "": ""
+  },
+  {
+    "name": "iguanodon",
+    "": ""
+  },
+  {
+    "name": "indosuchus",
+    "": ""
+  },
+  {
+    "name": "irritator",
+    "": ""
+  },
+  {
+    "name": "isisaurus",
+    "": ""
+  },
+  {
+    "name": "janenschia",
+    "": ""
+  },
+  {
+    "name": "jaxartosaurus",
+    "": ""
+  },
+  {
+    "name": "jingshanosaurus",
+    "": ""
+  },
+  {
+    "name": "jinzhousaurus",
+    "": ""
+  },
+  {
+    "name": "jobaria",
+    "": ""
+  },
+  {
+    "name": "juravenator",
+    "": ""
+  },
+  {
+    "name": "kentrosaurus",
+    "": ""
+  },
+  {
+    "name": "khaan",
+    "": ""
+  },
+  {
+    "name": "kotasaurus",
+    "": ""
+  },
+  {
+    "name": "kritosaurus",
+    "": ""
+  },
+  {
+    "name": "lambeosaurus",
+    "": ""
+  },
+  {
+    "name": "lapparentosaurus",
+    "": ""
+  },
+  {
+    "name": "leaellynasaura",
+    "": ""
+  },
+  {
+    "name": "leptoceratops",
+    "": ""
+  },
+  {
+    "name": "lesothosaurus",
+    "": ""
+  },
+  {
+    "name": "liaoceratops",
+    "": ""
+  },
+  {
+    "name": "ligabuesaurus",
+    "": ""
+  },
+  {
+    "name": "liliensternus",
+    "": ""
+  },
+  {
+    "name": "lophorhothon",
+    "": ""
+  },
+  {
+    "name": "lophostropheus",
+    "": ""
+  },
+  {
+    "name": "lufengosaurus",
+    "": ""
+  },
+  {
+    "name": "lurdusaurus",
+    "": ""
+  },
+  {
+    "name": "lycorhinus",
+    "": ""
+  },
+  {
+    "name": "magyarosaurus",
+    "": ""
+  },
+  {
+    "name": "maiasaura",
+    "": ""
+  },
+  {
+    "name": "majungasaurus",
+    "": ""
+  },
+  {
+    "name": "malawisaurus",
+    "": ""
+  },
+  {
+    "name": "mamenchisaurus",
+    "": ""
+  },
+  {
+    "name": "mapusaurus",
+    "": ""
+  },
+  {
+    "name": "marshosaurus",
+    "": ""
+  },
+  {
+    "name": "masiakasaurus",
+    "": ""
+  },
+  {
+    "name": "massospondylus",
+    "": ""
+  },
+  {
+    "name": "maxakalisaurus",
+    "": ""
+  },
+  {
+    "name": "megalosaurus",
+    "": ""
+  },
+  {
+    "name": "melanorosaurus",
+    "": ""
+  },
+  {
+    "name": "metriacanthosaurus",
+    "": ""
+  },
+  {
+    "name": "microceratus",
+    "": ""
+  },
+  {
+    "name": "micropachycephalosaurus",
+    "": ""
+  },
+  {
+    "name": "microraptor",
+    "": ""
+  },
+  {
+    "name": "minmi",
+    "": ""
+  },
+  {
+    "name": "monolophosaurus",
+    "": ""
+  },
+  {
+    "name": "mononykus",
+    "": ""
+  },
+  {
+    "name": "mussaurus",
+    "": ""
+  },
+  {
+    "name": "muttaburrasaurus",
+    "": ""
+  },
+  {
+    "name": "nanshiungosaurus",
+    "": ""
+  },
+  {
+    "name": "nedoceratops",
+    "": ""
+  },
+  {
+    "name": "nemegtosaurus",
+    "": ""
+  },
+  {
+    "name": "neovenator",
+    "": ""
+  },
+  {
+    "name": "neuquenosaurus",
+    "": ""
+  },
+  {
+    "name": "nigersaurus",
+    "": ""
+  },
+  {
+    "name": "nipponosaurus",
+    "": ""
+  },
+  {
+    "name": "noasaurus",
+    "": ""
+  },
+  {
+    "name": "nodosaurus",
+    "": ""
+  },
+  {
+    "name": "nomingia",
+    "": ""
+  },
+  {
+    "name": "nothronychus",
+    "": ""
+  },
+  {
+    "name": "nqwebasaurus",
+    "": ""
+  },
+  {
+    "name": "omeisaurus",
+    "": ""
+  },
+  {
+    "name": "opisthocoelicaudia",
+    "": ""
+  },
+  {
+    "name": "ornitholestes",
+    "": ""
+  },
+  {
+    "name": "ornithomimus",
+    "": ""
+  },
+  {
+    "name": "orodromeus",
+    "": ""
+  },
+  {
+    "name": "oryctodromeus",
+    "": ""
+  },
+  {
+    "name": "othnielia",
+    "": ""
+  },
+  {
+    "name": "ouranosaurus",
+    "": ""
+  },
+  {
+    "name": "oviraptor",
+    "": ""
+  },
+  {
+    "name": "pachycephalosaurus",
+    "": ""
+  },
+  {
+    "name": "pachyrhinosaurus",
+    "": ""
+  },
+  {
+    "name": "panoplosaurus",
+    "": ""
+  },
+  {
+    "name": "pantydraco",
+    "": ""
+  },
+  {
+    "name": "paralititan",
+    "": ""
+  },
+  {
+    "name": "parasaurolophus",
+    "": ""
+  },
+  {
+    "name": "parksosaurus",
+    "": ""
+  },
+  {
+    "name": "patagosaurus",
+    "": ""
+  },
+  {
+    "name": "pelicanimimus",
+    "": ""
+  },
+  {
+    "name": "pelorosaurus",
+    "": ""
+  },
+  {
+    "name": "pentaceratops",
+    "": ""
+  },
+  {
+    "name": "piatnitzkysaurus",
+    "": ""
+  },
+  {
+    "name": "pinacosaurus",
+    "": ""
+  },
+  {
+    "name": "plateosaurus",
+    "": ""
+  },
+  {
+    "name": "podokesaurus",
+    "": ""
+  },
+  {
+    "name": "poekilopleuron",
+    "": ""
+  },
+  {
+    "name": "polacanthus",
+    "": ""
+  },
+  {
+    "name": "prenocephale",
+    "": ""
+  },
+  {
+    "name": "probactrosaurus",
+    "": ""
+  },
+  {
+    "name": "proceratosaurus",
+    "": ""
+  },
+  {
+    "name": "procompsognathus",
+    "": ""
+  },
+  {
+    "name": "prosaurolophus",
+    "": ""
+  },
+  {
+    "name": "protarchaeopteryx",
+    "": ""
+  },
+  {
+    "name": "protoceratops",
+    "": ""
+  },
+  {
+    "name": "protohadros",
+    "": ""
+  },
+  {
+    "name": "psittacosaurus",
+    "": ""
+  },
+  {
+    "name": "quaesitosaurus",
+    "": ""
+  },
+  {
+    "name": "rebbachisaurus",
+    "": ""
+  },
+  {
+    "name": "rhabdodon",
+    "": ""
+  },
+  {
+    "name": "rhoetosaurus",
+    "": ""
+  },
+  {
+    "name": "rinchenia",
+    "": ""
+  },
+  {
+    "name": "riojasaurus",
+    "": ""
+  },
+  {
+    "name": "rugops",
+    "": ""
+  },
+  {
+    "name": "saichania",
+    "": ""
+  },
+  {
+    "name": "saltasaurus",
+    "": ""
+  },
+  {
+    "name": "sarcosaurus",
+    "": ""
+  },
+  {
+    "name": "saurolophus",
+    "": ""
+  },
+  {
+    "name": "sauropelta",
+    "": ""
+  },
+  {
+    "name": "saurophaganax",
+    "": ""
+  },
+  {
+    "name": "saurornithoides",
+    "": ""
+  },
+  {
+    "name": "scelidosaurus",
+    "": ""
+  },
+  {
+    "name": "scutellosaurus",
+    "": ""
+  },
+  {
+    "name": "secernosaurus",
+    "": ""
+  },
+  {
+    "name": "segisaurus",
+    "": ""
+  },
+  {
+    "name": "segnosaurus",
+    "": ""
+  },
+  {
+    "name": "shamosaurus",
+    "": ""
+  },
+  {
+    "name": "shanag",
+    "": ""
+  },
+  {
+    "name": "shantungosaurus",
+    "": ""
+  },
+  {
+    "name": "shunosaurus",
+    "": ""
+  },
+  {
+    "name": "shuvuuia",
+    "": ""
+  },
+  {
+    "name": "silvisaurus",
+    "": ""
+  },
+  {
+    "name": "sinocalliopteryx",
+    "": ""
+  },
+  {
+    "name": "sinornithosaurus",
+    "": ""
+  },
+  {
+    "name": "sinosauropteryx",
+    "": ""
+  },
+  {
+    "name": "sinovenator",
+    "": ""
+  },
+  {
+    "name": "sinraptor",
+    "": ""
+  },
+  {
+    "name": "sonidosaurus",
+    "": ""
+  },
+  {
+    "name": "spinosaurus",
+    "": ""
+  },
+  {
+    "name": "staurikosaurus",
+    "": ""
+  },
+  {
+    "name": "stegoceras",
+    "": ""
+  },
+  {
+    "name": "stegosaurus",
+    "": ""
+  },
+  {
+    "name": "stenopelix",
+    "": ""
+  },
+  {
+    "name": "struthiomimus",
+    "": ""
+  },
+  {
+    "name": "struthiosaurus",
+    "": ""
+  },
+  {
+    "name": "styracosaurus",
+    "": ""
+  },
+  {
+    "name": "suchomimus",
+    "": ""
+  },
+  {
+    "name": "supersaurus",
+    "": ""
+  },
+  {
+    "name": "talarurus",
+    "": ""
+  },
+  {
+    "name": "tanius",
+    "": ""
+  },
+  {
+    "name": "tarbosaurus",
+    "": ""
+  },
+  {
+    "name": "tarchia",
+    "": ""
+  },
+  {
+    "name": "telmatosaurus",
+    "": ""
+  },
+  {
+    "name": "tenontosaurus",
+    "": ""
+  },
+  {
+    "name": "thecodontosaurus",
+    "": ""
+  },
+  {
+    "name": "therizinosaurus",
+    "": ""
+  },
+  {
+    "name": "thescelosaurus",
+    "": ""
+  },
+  {
+    "name": "torosaurus",
+    "": ""
+  },
+  {
+    "name": "torvosaurus",
+    "": ""
+  },
+  {
+    "name": "triceratops",
+    "": ""
+  },
+  {
+    "name": "troodon",
+    "": ""
+  },
+  {
+    "name": "tsagantegia",
+    "": ""
+  },
+  {
+    "name": "tsintaosaurus",
+    "": ""
+  },
+  {
+    "name": "tuojiangosaurus",
+    "": ""
+  },
+  {
+    "name": "tylocephale",
+    "": ""
+  },
+  {
+    "name": "tyrannosaurus",
+    "": ""
+  },
+  {
+    "name": "udanoceratops",
+    "": ""
+  },
+  {
+    "name": "unenlagia",
+    "": ""
+  },
+  {
+    "name": "urbacodon",
+    "": ""
+  },
+  {
+    "name": "utahraptor",
+    "": ""
+  },
+  {
+    "name": "valdosaurus",
+    "": ""
+  },
+  {
+    "name": "velociraptor",
+    "": ""
+  },
+  {
+    "name": "vulcanodon",
+    "": ""
+  },
+  {
+    "name": "yandusaurus",
+    "": ""
+  },
+  {
+    "name": "yangchuanosaurus",
+    "": ""
+  },
+  {
+    "name": "yimenosaurus",
+    "": ""
+  },
+  {
+    "name": "yingshanosaurus",
+    "": ""
+  },
+  {
+    "name": "yinlong",
+    "": ""
+  },
+  {
+    "name": "yuanmousaurus",
+    "": ""
+  },
+  {
+    "name": "yunnanosaurus",
+    "": ""
+  },
+  {
+    "name": "zalmoxes",
+    "": ""
+  },
+  {
+    "name": "zephyrosaurus",
+    "": ""
+  },
+  {
+    "name": "zuniceratops",
+    "": ""
+  }
+]

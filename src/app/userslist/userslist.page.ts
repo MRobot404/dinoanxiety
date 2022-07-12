@@ -1,5 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { JsonPipe } from '@angular/common';
 
 @Component({
   selector: 'app-userslist',
@@ -10,16 +11,14 @@ export class UserslistPage implements OnInit {
   @Input() dataEntrante: any;
   dinos = [];
 
-  constructor(private http: HttpClient) {}
+  constructor() {}
 
   ngOnInit() {
-    this.http
-      .get<any>('http://demo2854538.mockable.io/dino')
-      .subscribe((res) => {
-        this.dinos = res;
-        console.log('Entrando data ' + this.dataEntrante);
-
-      });
+    
+      fetch('./assets/inputFile/csvjson.json').then(res => res.json()).then(json =>{
+        console.log('results',json);
+        this.dinos = json;
+      })
   }
   hola(id,name,type,diet,era,found,img){
     localStorage.setItem("id",id)
