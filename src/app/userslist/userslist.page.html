@@ -2,11 +2,7 @@
   <ion-toolbar>
     <ion-title>Dinos</ion-title>
     <ion-buttons slot="start">
-      <ion-back-button
-        defaultHref="home"
-        text=""
-        icon="chevron-back-outline"
-      ></ion-back-button>
+      <ion-back-button defaultHref="home" text="" icon="chevron-back-outline"></ion-back-button>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
@@ -15,19 +11,16 @@
   <ion-grid>
     <ion-row>
       <ion-col sizeMd="4" offsetMd="4">
-      <ion-list>
-        <ion-item
-          *ngFor="let dino of dinos"
-          [routerLink]="['/profile/' +dino.id]"
-          (click)="hola(dino.id,dino.name,dino.is_dino,dino.diet,dino.era,dino.found,dino.img)"
-        >
-          <ion-avatar slot="start">
-            <img src="{{dino.img}}" alt="" />
-          </ion-avatar>
-          <ion-label>{{dino.name}}</ion-label>
-        </ion-item>
-      </ion-list>
-    </ion-col>
+        <ion-list>
+          <ion-item *ngFor="let dino of dinos" [routerLink]="['/profile/' +dino.id]"
+            (click)="hola(dino)">
+            <ion-avatar slot="start" class="avatar-container">
+              <img src="{{dino.img}}" alt="" />
+            </ion-avatar>            
+            <ion-label>{{dino.name}}</ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-col>
     </ion-row>
   </ion-grid>
 </ion-content>

@@ -1,6 +1,4 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
-import { JsonPipe } from '@angular/common';
 
 @Component({
   selector: 'app-userslist',
@@ -11,7 +9,6 @@ export class UserslistPage implements OnInit {
   @Input() dataEntrante: any;
   dinos = [];
 
-  constructor() {}
 
   ngOnInit() {
     
@@ -20,13 +17,15 @@ export class UserslistPage implements OnInit {
         this.dinos = json;
       })
   }
-  hola(id,name,type,diet,era,found,img){
-    localStorage.setItem("id",id)
-    localStorage.setItem("name",name)
-    localStorage.setItem("type",type)
-    localStorage.setItem("diet",diet)
-    localStorage.setItem("era", era)
-    localStorage.setItem("found",found)
-    localStorage.setItem("img", img)
+  hola(dino:any){
+
+    localStorage.setItem("id",dino.id)
+    localStorage.setItem("name",dino.name)
+    localStorage.setItem("type",dino.is_dino)
+    localStorage.setItem("diet",dino.diet)
+    localStorage.setItem("era", dino.era)
+    localStorage.setItem("found",dino.found)
+    localStorage.setItem("img", dino.img)
+    localStorage.setItem('date', dino.date)
   }
 }

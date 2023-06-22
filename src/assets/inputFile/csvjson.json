@@ -1,111 +1,123 @@
 [
   {
     "id": 1,
-    "name": "aardonyx",
-    "is_dino": "prosaurópodo",
-    "diet": "herbívoro",
+    "name": "Aardonyx",
+    "is_dino": "Prosaurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico temprano",
     "found": "Sudáfrica",
-    "img": "https://es-academic.com/pictures/eswiki/65/Aardonyx_celestae_by_karkemish00.jpg"
+    "img": "https://es-academic.com/pictures/eswiki/65/Aardonyx_celestae_by_karkemish00.jpg",
+    "date": "199-189 millones de años"
   },
   {
     "id": 2,
-    "name": "abelisaurus",
-    "is_dino": "large theropod",
-    "diet": "carnivorous",
-    "era": "Late Cretaceous",
+    "name": "Abelisaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
+    "era": "Cretácico superior",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/abeli.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/abeli.jpg",
+    "date": "74-70 millones de años"
   },
   {
     "id": 3,
-    "name": "achelousaurus",
-    "is_dino": "ceratopsian",
-    "diet": "herbivorous",
+    "name": "Aquelosauro",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/achelou.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/achelou.jpg",
+    "date": "83-70 millones de años"
   },
   {
     "id": 4,
-    "name": "achillobator",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Aquilobator",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Achillobator.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Achillobator.jpg",
+    "date": "99-84 millones de años"
   },
   {
     "id": 5,
-    "name": "acrocanthosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Acrocantosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Canadá , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/acrocantho.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/acrocantho.jpg",
+    "date": "115-105 millones de años"
   },
   {
     "id": 6,
-    "name": "aegyptosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Aegitosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Egipto",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/aegypto.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/aegypto.jpg",
+    "date": "98-93 millones de años "
   },
   {
     "id": 7,
-    "name": "afrovenator",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Afrovenator",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico temprano ",
     "found": "Nígeria",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/afrovenator.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/afrovenator.jpg",
+    "date": "132-121 millones de años"
   },
   {
     "id": 8,
-    "name": "agilisaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Agilisaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alamo.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alamo.jpg",
+    "date": "169-159 millones de años"
   },
   {
     "id": 9,
-    "name": "alamosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Alamosaurus",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alamo.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alamo.jpg",
+    "date": "70-66 millones de años"
   },
   {
     "id": 10,
-    "name": "albertaceratops",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Albertaceratops",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Canadá , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/albertaceratops.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/albertaceratops.jpg",
+    "date": "80-75 millones de años"
   },
   {
     "id": 11,
-    "name": "albertosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Albertosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/albert.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/albert.jpg",
+    "date": "76-74 millones de años"
   },
   {
     "id": 12,
-    "name": "alectrosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Alectrosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
-    "found": "china , mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alectro.jpg"
+    "found": "China , Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alectro.jpg",
+    "date": "90-70 millones de años"
   },
   {
     "id": 13,
@@ -870,7 +882,7 @@
     "diet": " herbívoro ",
     "era": "Jurásico medio",
     "found": "Alemania",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Emausaurus.jpg" 
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Emausaurus.jpg"
   },
   {
     "id": 98,
@@ -879,7 +891,7 @@
     "diet": "herbívoro",
     "era": "Cretácico superior ",
     "found": "EE.UU",
-    "img":"https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eolambia.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eolambia.jpg"
   },
   {
     "id": 99,
@@ -888,7 +900,7 @@
     "diet": "carnívoro",
     "era": "Triásico superior",
     "found": "Argentina",
-    "img":"https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/eor.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/eor.jpg"
   },
   {
     "id": 100,
@@ -897,7 +909,7 @@
     "diet": "carnívoro",
     "era": "Cretácico temprano ",
     "found": "Inglaterra , Reino Unido",
-    "img":"https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eotyrannus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eotyrannus.jpg"
   },
   {
     "id": 101,

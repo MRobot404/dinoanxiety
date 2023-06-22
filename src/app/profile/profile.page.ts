@@ -12,9 +12,9 @@ export class ProfilePage implements OnInit {
   diet:string
   era:string
   found:string
+  date:string
   img:string
 
-  constructor() {}
 
   ngOnInit() {
   this.id= localStorage.getItem('id')
@@ -23,6 +23,7 @@ export class ProfilePage implements OnInit {
   this.diet = localStorage.getItem('diet')
   this.era = localStorage.getItem('era')
   this.found = localStorage.getItem('found')
+  this.date = localStorage.getItem('date')
   this.img = localStorage.getItem('img')
   }
 }
