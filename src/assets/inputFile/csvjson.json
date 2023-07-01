@@ -121,228 +121,253 @@
   },
   {
     "id": 13,
-    "name": "alioramus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Alioramus",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Alioramus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Alioramus.jpg",
+    "date": "71-66 millones de años"
   },
   {
     "id": 14,
-    "name": "allosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Alosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Jurásico tardío",
     "found": "Portugal , Estados Unidos",
-    "img": "http://www.tododinosaurios.com/blog/wp-content/uploads/2014/07/Alosaurio-de-Papo.jpg"
+    "img": "http://www.tododinosaurios.com/blog/wp-content/uploads/2014/07/Alosaurio-de-Papo.jpg",
+    "date": "152-145 millones de años"
   },
   {
     "id": 15,
-    "name": "alvarezsaurus",
-    "is_dino": "pequeño",
-    "diet": "carnívoro",
+    "name": "Alvarezsaurio",
+    "is_dino": "Pequeño",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alvarez.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/alvarez.jpg",
+    "date": "89-85 millones de años"
   },
   {
     "id": 16,
-    "name": "amargasaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Amargasaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico temprano",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Amargasaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Amargasaurus.jpg",
+    "date": "132-127 millones de años"
   },
   {
     "id": 17,
-    "name": "ammosaurus",
-    "is_dino": "prosaurópodo",
-    "diet": "herbívoro",
+    "name": "Amosaurio",
+    "is_dino": "Prosaurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico temprano",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/ammo.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/ammo.jpg",
+    "date": "195-180 millones de años"
   },
   {
     "id": 18,
-    "name": "ampelosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Ampelosauro",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Francia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Ampelosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Ampelosaurus.jpg",
+    "date": "71-66 millones de años"
   },
   {
     "id": 19,
-    "name": "amygdalodon",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Amígdalodón",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico medio",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Amygdalodon.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Amygdalodon.jpg",
+    "date": "177-169 millones de años"
   },
   {
     "id": 20,
-    "name": "anchiceratops",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Anchiceratops",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi2.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi2.jpg",
+    "date": "74-70 millones de años"
   },
   {
     "id": 21,
-    "name": "anchisaurus",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Anquisaurio",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior ",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi2.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anchi2.jpg",
+    "date": "190 millones de años"
   },
   {
     "id": 22,
-    "name": "ankylosaurus",
-    "is_dino": "dinosaurio blindado",
-    "diet": "herbívoro",
+    "name": "Anquilosaurio",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Canadá , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/ankyl.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/ankyl.jpg",
+    "date": "74-67 millones de años"
   },
   {
     "id": 23,
-    "name": "anserimimus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Anserimimo",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anseri.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/anseri.jpg",
+    "date": "84-66 millones de años"
   },
   {
     "id": 24,
-    "name": "antarctosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Antarctosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Argentina , Chile , Uruguay",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/antarcto.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/antarcto.jpg",
+    "date": "84 millones de años"
   },
   {
     "id": 25,
-    "name": "apatosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Apatosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Apatosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Apatosaurus.jpg",
+    "date": "152-145 millones de años"
   },
   {
     "id": 26,
-    "name": "aragosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Aragosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico temprano",
     "found": "España",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aragosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aragosaurus.jpg",
+    "date": "132-121 millones de años"
   },
   {
     "id": 27,
-    "name": "aralosaurus",
-    "is_dino": "gran ornitópodo",
-    "diet": "herbívoro",
+    "name": "Aralosauro",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Kazajstán",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aralosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aralosaurus.jpg",
+    "date": "94-84 millones de años"
   },
   {
     "id": 28,
-    "name": "archaeoceratops",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Archaeoceratops",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico temprano",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Archaeoceratops.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Archaeoceratops.jpg",
+    "date": "121-99 millones de años"
   },
   {
     "id": 29,
-    "name": "archaeopteryx",
-    "is_dino": "pequeño",
-    "diet": "carnívoro",
+    "name": "Arqueoptérix",
+    "is_dino": "Pequeño",
+    "diet": "Carnívoro",
     "era": "Jurásico superior",
     "found": "Alemania",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeo.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeo.jpg",
+    "date": "147 millones de años"
   },
   {
     "id": 30,
-    "name": "archaeornithomimus",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Archaeornithomimus",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "China , Uzbekistán",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeorn.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/archaeorn.jpg",
+    "date": "95-70 millones de años"
   },
   {
     "id": 31,
-    "name": "argentinosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Argentinosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior ",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/argent.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/argent.jpg",
+    "date": "90 millones de años"
   },
   {
     "id": 32,
-    "name": "arrhinoceratops",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Arrinoceratops",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior ",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Arrhinoceratops.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Arrhinoceratops.jpg",
+    "date": "72-67 millones de años"
   },
   {
     "id": 33,
-    "name": "atlascopcosaurus",
-    "is_dino": "pequeño ornitópodo",
-    "diet": "herbívoro",
+    "name": "Atlascopcosaurus",
+    "is_dino": "Pequeño ornitópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico temprano",
     "found": "Australia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Atlascopcosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Atlascopcosaurus.jpg",
+    "date": "121-97 millones de años"
   },
   {
     "id": 34,
-    "name": "aucasaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro ",
+    "name": "Aucasaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro ",
     "era": "Cretácico superior",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aucasaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Aucasaurus.jpg",
+    "date": "84-71 millones de años"
   },
   {
     "id": 35,
-    "name": "austrosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Austrosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico temprano ",
     "found": "Australia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Austrosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Austrosaurus.jpg",
+    "date": "112-99 millones de años"
   },
   {
     "id": 36,
-    "name": "avaceratops",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro ",
+    "name": "Avaceratops",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro ",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Avaceratops.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Avaceratops.jpg",
+    "date": "80-75 millones de años"
   },
   {
     "id": 37,
-    "name": "avimimus",
-    "is_dino": "pequeño terópodo",
-    "diet": "omnívoro",
+    "name": "Avimimus",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro",
     "era": "Cretácico superior ",
-    "found": "china , mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/avim.jpg"
+    "found": "China , Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/avim.jpg",
+    "date": "80-75 millones de años"
   },
   {
     "id": 38,
