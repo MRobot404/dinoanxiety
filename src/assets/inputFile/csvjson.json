@@ -371,129 +371,143 @@
   },
   {
     "id": 38,
-    "name": "bactrosaurus",
-    "is_dino": "gran ornitópodo",
-    "diet": "herbivorous",
+    "name": "Bactrosaurus",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbivorous",
     "era": "Cretácico superior",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bactrosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bactrosaurus.jpg",
+    "date": "84-71 millones de años"
   },
   {
     "id": 39,
-    "name": "bagaceratops",
-    "is_dino": "ceratopsianoSIii",
-    "diet": "herbívoro",
+    "name": "Bagaceratops",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bagaceratops.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bagaceratops.jpg",
+    "date": "85-80 millones de años"
   },
   {
     "id": 40,
-    "name": "bambiraptor",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Bambiraptor",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bambiraptor.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bambiraptor.jpg",
+    "date": "84-71 millones de años"
   },
   {
     "id": 41,
-    "name": "barapasaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Barapasaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico temprano ",
     "found": "India",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/barapa.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/barapa.jpg",
+    "date": "185-170 millones de años"
   },
   {
     "id": 42,
-    "name": "barosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Barosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío",
-    "found": "tanzania , estados unidos de américa",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/baro.jpg"
+    "found": "Tanzania , EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/baro.jpg",
+    "date": "155-145 millones de años"
   },
   {
     "id": 43,
-    "name": "baryonyx",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Barionix",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico temprano ",
     "found": "Inglaterra , España , Reino Unido",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/bary.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/bary.jpg",
+    "date": "125 millones de años"
   },
   {
     "id": 44,
-    "name": "becklespinax",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Becklespinax",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico temprano ",
     "found": "Inglaterra , Reino Unido",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Becklespinax.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Becklespinax.jpg",
+    "date": "142-132 millones de años"
   },
   {
     "id": 45,
-    "name": "beipiaosaurus",
-    "is_dino": "pequeño terópodo",
-    "diet": "omnívoro",
+    "name": "Beipiaosaurio",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro",
     "era": "Cretácico temprano ",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Beipiaosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Beipiaosaurus.jpg",
+    "date": "127-121 millones de años"
   },
   {
     "id": 46,
-    "name": "bellusaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Bellusaurus",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico medio",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bellusaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Bellusaurus.jpg",
+    "date": "180-159 millones de años"
   },
   {
     "id": 47,
-    "name": "borogovia",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Borogovia",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior ",
     "found": "Mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Borogovia.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Borogovia.jpg",
+    "date": "84-66 millones de años"
   },
   {
     "id": 48,
-    "name": "brachiosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro ",
+    "name": "Braquiosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro ",
     "era": "Jurásico tardío ",
     "found": "Argelia , Portugal , Tanzania , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/brach.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/brach.jpg",
+    "date": "155-140 millones de años"
   },
   {
     "id": 49,
-    "name": "brachylophosaurus",
-    "is_dino": "gran ornitópodo",
-    "diet": "herbívoro",
+    "name": "Braquilofosaurio",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior ",
     "found": "Canadá , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Brachylophosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Brachylophosaurus.jpg",
+    "date": "89-88 millones de años"
   },
   {
     "id": 50,
-    "name": "brachytrachelopan",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Braquitraquelopan",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico medio ",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Brachytrachelopan.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Brachytrachelopan.jpg",
+    "date": "150 millones de años"
   },
   {
     "id": 51,
-    "name": "buitreraptor",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Buitreraptor",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Buitreraptor.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Buitreraptor.jpg",
+    "date": "99-90 millones de años"
   },
   {
     "id": 52,
