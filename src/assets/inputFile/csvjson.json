@@ -511,237 +511,263 @@
   },
   {
     "id": 52,
-    "name": "camarasaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Camarasaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/camara.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/camara.jpg",
+    "date": "150-140 millones de años"
   },
   {
     "id": 53,
-    "name": "camptosaurus",
-    "is_dino": "gran ornitópodo",
-    "diet": "herbívoro",
+    "name": "Camptosaurio",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío",
     "found": "Inglaterra , Reino Unido , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/campto.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/campto.jpg",
+    "date": "155-145 millones de años"
   },
   {
     "id": 54,
-    "name": "carcharodontosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnivorous",
+    "name": "Carcharodontosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnivorous",
     "era": "Cretácico superior",
     "found": "África del Norte",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carch.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carch.jpg",
+    "date": "98-94 millones de años"
   },
   {
     "id": 55,
-    "name": "carnotaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro ",
+    "name": "Carnotauro",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro ",
     "era": "Cretácico superior ",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carnoto.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/carnoto.jpg",
+    "date": "70 millones de años"
   },
   {
     "id": 56,
-    "name": "caudipteryx",
-    "is_dino": "pequeño terópodo",
-    "diet": "omnívoro",
+    "name": "Caudipteryx",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro",
     "era": "Cretácico temprano ",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/caudip.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/caudip.jpg",
+    "date": "125-122 millones de años"
   },
   {
     "id": 57,
-    "name": "cedarpelta",
-    "is_dino": "dinosaurio blindado",
-    "diet": "herbívoro",
+    "name": "Cedropelta",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
     "era": "Cretácico temprano",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Cedarpelta.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Cedarpelta.jpg",
+    "date": "142-127 millones de años"
   },
   {
     "id": 58,
-    "name": "centrosaurus",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Centrosaurio",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/centro.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/centro.jpg",
+    "date": "76-74 millones de años"
   },
   {
     "id": 59,
-    "name": "ceratosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro ",
+    "name": "Ceratosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro ",
     "era": "Jurásico tardío ",
     "found": "Portugal , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cerato.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cerato.jpg",
+    "date": "153-148 millones de años"
   },
   {
     "id": 60,
-    "name": "cetiosauriscus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Cetiosaurico",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico medio",
     "found": "Inglaterra , Reino Unido",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetios.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetios.jpg",
+    "date": "175-160 millones de años"
   },
   {
     "id": 61,
-    "name": "cetiosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro ",
+    "name": "Cetiosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro ",
     "era": "Jurásico medio",
     "found": "Inglaterra , Reino Unido",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetio.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cetio.jpg",
+    "date": "170-160 millones de años"
   },
   {
     "id": 62,
-    "name": "chaoyangsaurus",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Chaoyansaurio",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío ",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chaoyangsaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chaoyangsaurus.jpg",
+    "date": "152-145 millones de años"
   },
   {
     "id": 63,
-    "name": "chasmosaurus",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Chasmosaurio",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior ",
     "found": " Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/chasmo.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/chasmo.jpg",
+    "date": "76-74 millones de años"
   },
   {
     "id": 64,
-    "name": "chindesaurus",
-    "is_dino": "dinosaurio primitivo",
-    "diet": "carnívoro ",
+    "name": "Chindesaurus",
+    "is_dino": "Dinosaurio primitivo",
+    "diet": "Carnívoro ",
     "era": "Triásico tardío",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chindesaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chindesaurus.jpg",
+    "date": "227-210 millones de años"
   },
   {
     "id": 65,
-    "name": "chinshakiangosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro ",
+    "name": "Chinshakiangosaurus",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro ",
     "era": "Jurásico tardío",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chinshakiangosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chinshakiangosaurus.jpg",
+    "date": "159-142 millones de años"
   },
   {
     "id": 66,
-    "name": "chirostenotes",
-    "is_dino": "pequeño terópodo",
-    "diet": "omnívoro",
+    "name": "Chirostenotes",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro",
     "era": "Jurásico tardío",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chirostenotes.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chirostenotes.jpg",
+    "date": "79-67 millones de años"
   },
   {
     "id": 67,
-    "name": "chubutisaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Chubutisaurus",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico temprano",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chubutisaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chubutisaurus.jpg",
+    "date": "112-99 millones de años"
   },
   {
     "id": 68,
-    "name": "chungkingosaurus",
-    "is_dino": "dinosaurio blindado",
-    "diet": "herbívoro",
+    "name": "Chungkingosaurio",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chungkingosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Chungkingosaurus.jpg",
+    "date": "159-142 millones de años"
   },
   {
     "id": 69,
-    "name": "citipati",
-    "is_dino": "pequeño terópodo",
-    "diet": "omnívoro ",
+    "name": "Citipati",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro ",
     "era": "Cretácico superior",
     "found": "Mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Citipati.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Citipati.jpg",
+    "date": "81-75 millones de años"
   },
   {
     "id": 70,
-    "name": "coelophysis",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro ",
+    "name": "Celófisis",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro ",
     "era": "Triásico superior",
     "found": "Sudáfrica , Estados Unidos , Zimbabue",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coelo.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coelo.jpg",
+    "date": "225-190 millones de años"
   },
   {
     "id": 71,
-    "name": "coelurus",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Celuro",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Jurásico tardío",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coelurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coelurus.jpg",
+    "date": "155-145 millones de años"
   },
   {
     "id": 72,
-    "name": "coloradisaurus",
-    "is_dino": "prosaurópodo",
-    "diet": "omnívoro",
+    "name": "Coloradisaurio",
+    "is_dino": "Prosaurópodo",
+    "diet": "Omnívoro",
     "era": "Triásico tardío",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Coloradisaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Coloradisaurus.jpg",
+    "date": "221-210 millones de años"
   },
   {
     "id": 73,
-    "name": "compsognathus",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Compsognato",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Jurásico tardío",
     "found": "Francia , Alemania",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Compsognathus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Compsognathus.jpg",
+    "date": "145-140 millones de años"
   },
   {
     "id": 74,
-    "name": "conchoraptor",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro ",
+    "name": "Conchoraptor",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "Mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Conchoraptor.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Conchoraptor.jpg",
+    "date": "81-76 millones de años"
   },
   {
     "id": 75,
-    "name": "confuciusornis",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Confuciosornis",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico temprano",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Confuciusornis.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Confuciusornis.jpg",
+    "date": "127-121 millones de años"
   },
   {
     "id": 76,
-    "name": "corythosaurus",
-    "is_dino": "gran ornitópodo",
-    "diet": "herbívoro",
+    "name": "Coritosaurio",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Canadá , Estados Unidos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coryth.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/coryth.jpg",
+    "date": "76-74 millones de años"
   },
   {
     "id": 77,
-    "name": "cryolophosaurus",
+    "name": "Criolofosaurio",
     "is_dino": "gran terópodo",
     "diet": "carnívoro ",
     "era": "Jurásico temprano",
     "found": "Antártida",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cryolopho.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cryolopho.jpg",
+    "date":"170 millones de años"
   },
   {
     "id": 78,
