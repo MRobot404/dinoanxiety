@@ -767,97 +767,107 @@
     "era": "Jurásico temprano",
     "found": "Antártida",
     "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/cryolopho.jpg",
-    "date":"170 millones de años"
+    "date": "170 millones de años"
   },
   {
     "id": 78,
-    "name": "dacentrurus",
-    "is_dino": "dinosaurio blindado",
-    "diet": "herbívoro ",
+    "name": "Dacentrurus",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro ",
     "era": "Jurásico tardío",
     "found": "Inglaterra , Francia , Portugal , Reino Unido",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dacentr.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dacentr.jpg",
+    "date": "154-150 millones de años"
   },
   {
     "id": 79,
-    "name": "daspletosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro ",
+    "name": "Daspletosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro ",
     "era": "Cretácico superior",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/daspelet.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/daspelet.jpg",
+    "date": "76-74 millones de años"
   },
   {
     "id": 80,
-    "name": "datousaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro ",
+    "name": "Datosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro ",
     "era": "Jurásico medio ",
     "found": "Porcelana",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/datou.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/datou.jpg",
+    "date": "170 millones de años"
   },
   {
     "id": 81,
-    "name": "deinocheirus",
-    "is_dino": "gran terópodo",
-    "diet": "omnívoro ",
+    "name": "Deinocheirus",
+    "is_dino": "G terópodo",
+    "diet": "Omnívoro ",
     "era": "Cretácico superior",
     "found": "Mongolia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/deinoc.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/deinoc.jpg",
+    "date": "70-66 millones de años"
   },
   {
     "id": 82,
-    "name": "deinonychus",
-    "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "name": "Deinonychus",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico temprano ",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/deinon.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/deinon.jpg",
+    "date": "120-110 millones de años"
   },
   {
     "id": 83,
-    "name": "deltadromeus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro ",
+    "name": "Deltadromeo",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro ",
     "era": "Cretácico superior",
     "found": "Marruecos",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Deltadromeus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Deltadromeus.jpg",
+    "date": "99-94 millones de años"
   },
   {
     "id": 84,
-    "name": "dicraeosaurus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Dicraeosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío ",
     "found": "Tanzania",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dicraeosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dicraeosaurus.jpg",
+    "date": "150-135 millones de años"
   },
   {
     "id": 85,
-    "name": "dilophosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro ",
+    "name": "Dilofosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro ",
     "era": "Jurásico temprano",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dilopho.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dilopho.jpg",
+    "date": "190 millones de años"
   },
   {
     "id": 86,
-    "name": "diplodocus",
-    "is_dino": "saurópodo",
-    "diet": "herbívoro",
+    "name": "Diplodocus",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
     "era": "Jurásico tardío",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/diplo.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/diplo.jpg",
+    "date": "152-145 millones de años"
   },
   {
     "id": 87,
-    "name": "dracorex",
-    "is_dino": "paquicefalosaurio",
-    "diet": "herbívoro",
+    "name": "Dracorex",
+    "is_dino": "Paquicefalosaurio",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dracorex.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dracorex.jpg",
+    "date": "66 millones de años"
   },
   {
     "id": 88,
@@ -870,111 +880,123 @@
   },
   {
     "id": 89,
-    "name": "dromiceiomimus",
-    "is_dino": "gran terópodo",
-    "diet": "omnívoro",
+    "name": "Dromeosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Omnívoro",
     "era": "Cretácico superior ",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dromic.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dromic.jpg",
+    "date": "76-74 millones de años"
   },
   {
     "id": 90,
-    "name": "dryosaurus",
-    "is_dino": "pequeño ornitópodo",
-    "diet": "herbívoro ",
+    "name": "Dryosaurio",
+    "is_dino": "Pequeño ornitópodo",
+    "diet": "Herbívoro ",
     "era": "Jurásico tardío ",
-    "found": "tanzania ",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dryo.jpg"
+    "found": "Tanzania ",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/dryo.jpg",
+    "date": "155-140 millones de años"
   },
   {
     "id": 91,
-    "name": "dryptosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Dryptosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/drypto.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/drypto.jpg",
+    "date": "84-66 millones de años"
   },
   {
     "id": 92,
-    "name": "dubreuillosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Dubreuillosaurus",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Jurásico tardío",
     "found": "Francia",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dubreuillosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Dubreuillosaurus.jpg",
+    "date": "169-164 millones de años"
   },
   {
     "id": 93,
-    "name": "edmontonia",
-    "is_dino": "dinosaurio blindado",
-    "diet": "herbívoro",
+    "name": "Edmontonia",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
     "era": "Cretácico superior ",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Edmontonia.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Edmontonia.jpg",
+    "date": "76-74 millones de años"
   },
   {
     "id": 94,
-    "name": "edmontosaurus",
-    "is_dino": "gran ornitópodo",
-    "diet": "herbívoro",
+    "name": "Edmontosaurio",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "Canadá",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/edmonto.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/edmonto.jpg",
+    "date": "76-66 millones de años"
   },
   {
     "id": 95,
-    "name": "einiosaurus",
-    "is_dino": "ceratopsiano",
-    "diet": "herbívoro",
+    "name": "Einiosaurio",
+    "is_dino": "Ceratopsiano",
+    "diet": "Herbívoro",
     "era": "Cretácico superior",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Einiosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Einiosaurus.jpg",
+    "date": "74 millones de años"
   },
   {
     "id": 96,
-    "name": "elaphrosaurus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Elafrosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Jurásico tardío",
     "found": "Tanzania",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Elaphrosaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Elaphrosaurus.jpg",
+    "date": "154-151 millones de años"
   },
   {
     "id": 97,
-    "name": "emausaurus",
-    "is_dino": "dinosaurio blindado",
-    "diet": " herbívoro ",
+    "name": "Emausauro",
+    "is_dino": "Dinosaurio blindado",
+    "diet": " Herbívoro ",
     "era": "Jurásico medio",
     "found": "Alemania",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Emausaurus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Emausaurus.jpg",
+    "date": "190-180 millones de años"
   },
   {
     "id": 98,
-    "name": "eolambia",
-    "is_dino": "gran ornitópodo",
+    "name": "Eolambia",
+    "is_dino": "Gran ornitópodo",
     "diet": "herbívoro",
     "era": "Cretácico superior ",
     "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eolambia.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eolambia.jpg",
+    "date": " 99-94 millones de años"
   },
   {
     "id": 99,
-    "name": "eoraptor",
+    "name": "Eoraptor",
     "is_dino": "pequeño terópodo",
-    "diet": "carnívoro",
+    "diet": "Carnívoro",
     "era": "Triásico superior",
     "found": "Argentina",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/eor.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/eor.jpg",
+    "date": "228 millones de años"
   },
   {
     "id": 100,
-    "name": "eotyrannus",
-    "is_dino": "gran terópodo",
-    "diet": "carnívoro",
+    "name": "Eotirano",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico temprano ",
     "found": "Inglaterra , Reino Unido",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eotyrannus.jpg"
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eotyrannus.jpg",
+    "date": "127-121 millones de años"
   },
   {
     "id": 101,
