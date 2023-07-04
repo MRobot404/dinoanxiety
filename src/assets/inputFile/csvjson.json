@@ -1000,45 +1000,103 @@
   },
   {
     "id": 101,
-    "name": "equijubus",
-    "": ""
+    "name": "Equijubus",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
+    "era": "Cretácico temprano",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Equijubus.jpg",
+    "date": "127-99 millones de años"
   },
   {
     "id": 102,
-    "name": "erketu",
-    "": ""
+    "name": "Erketu",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
+    "era": "Cretácico Inferior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Erketu.jpg",
+    "date": "Desconocido"
   },
   {
-    "name": "erlikosaurus",
-    "": ""
+    "id": 103,
+    "name": "Erlikosaurus",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro",
+    "era": "Pequeño terópodo",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Erlikosaurus.jpg",
+    "date": "99-89 millones de años"
   },
   {
-    "name": "euhelopus",
-    "": ""
+    "id": 104,
+    "name": "Euhelopus",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
+    "era": "Saurópodo",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Euhelopus.jpg",
+    "date": "154-142 millones de años"
   },
   {
-    "name": "euoplocephalus",
-    "": ""
+    "id": 105,
+    "name": "Euoplocéfalo",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/euoplo.jpg",
+    "date": "76-70 millones de años"
   },
   {
-    "name": "europasaurus",
-    "": ""
+    "id": 106,
+    "name": "Europasaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
+    "era": "Jurásico tardío",
+    "found": "Alemania",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Europasaurus.jpg",
+    "date": "154-151 millones de años"
   },
   {
-    "name": "eustreptospondylus",
-    "": ""
+    "id": 107,
+    "name": "Eustreptospondylus",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
+    "era": "Jurásico medio",
+    "found": "Inglaterra , Reino Unido",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Eustreptospondylus.jpg",
+    "date": "165 millones de años"
   },
   {
-    "name": "fukuiraptor",
-    "": ""
+    "id": 108,
+    "name": "Fukiraptor",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
+    "era": "Cretácico temprano",
+    "found": "Japón",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Fukuiraptor.jpg",
+    "date": "121-99 millones de años"
   },
   {
-    "name": "fukuisaurus",
-    "": ""
+    "id": 109,
+    "name": "Fukuisaurus",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
+    "era": "Cretácico temprano",
+    "found": "Japón",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Fukuisaurus.jpg",
+    "date": "121-99 millones de años"
   },
   {
-    "name": "gallimimus",
-    "": ""
+    "id": 110,
+    "name": "Galimimus",
+    "is_dino": "Gran terópodo",
+    "diet": "Omnívoro",
+    "era": "Cretácico temprano",
+    "found": "Japón",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/gallim.jpg",
+    "date": "121-99 millones de años"
   },
   {
     "name": "gargoyleosaurus",
