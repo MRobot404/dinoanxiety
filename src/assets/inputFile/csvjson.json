@@ -1099,96 +1099,159 @@
     "date": "121-99 millones de años"
   },
   {
+    "id":111,
     "name": "gargoyleosaurus",
     "": ""
   },
   {
+    "id":112,
     "name": "garudimimus",
     "": ""
   },
   {
+    "id":113,
     "name": "gasosaurus",
     "": ""
   },
   {
+    "id":114,
     "name": "gasparinisaura",
     "": ""
   },
   {
+    "id":115,
     "name": "gastonia",
     "": ""
   },
   {
+    "id":116,
     "name": "giganotosaurus",
     "": ""
   },
   {
+    "id":117,
     "name": "gilmoreosaurus",
     "": ""
   },
   {
+    "id":118,
     "name": "giraffatitan",
     "": ""
   },
   {
+    "id":119,
     "name": "gobisaurus",
     "": ""
   },
   {
+    "id":120,
     "name": "gorgosaurus",
     "": ""
   },
   {
+    "id":121,
     "name": "goyocephale",
     "": ""
   },
   {
+    "id":122,
     "name": "graciliceratops",
     "": ""
   },
   {
+    "id":123,
     "name": "gryposaurus",
     "": ""
   },
   {
+    "id":124,
     "name": "guaibasaurus",
     "": ""
   },
   {
+    "id":125,
     "name": "guanlong",
     "": ""
   },
   {
-    "name": "hadrosaurus",
-    "": ""
+    "id":126,
+    "name": "Hadrosaurio",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
+    "era": "Cretácico superior",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/hadro.jpg",
+    "date": "78-74 millones de años"
   },
   {
-    "name": "hagryphus",
-    "": ""
+    "id":127,
+    "name": "Hagrifo",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro",
+    "era": "Desconocido",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Hagryphus.jpg",
+    "date": "Desconocido"
   },
   {
-    "name": "haplocanthosaurus",
-    "": ""
+    "id":128,
+    "name": "Haplocantosaurio",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
+    "era": "Jurásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Haplocanthosaurus.jpg",
+    "date": "154-142 millones de años"
   },
   {
-    "name": "harpymimus",
-    "": ""
+    "id":129,
+    "name": "Harpimimo",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Omnívoro",
+    "era": "Cretácico temprano",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Harpymimus.jpg",
+    "date": "121-99 millones de años"
   },
   {
-    "name": "herrerasaurus",
-    "": ""
+    "id":130,
+    "name": "Herrerasaurio",
+    "is_dino": "Dinosaurio primitivo",
+    "diet": "Carnívoro",
+    "era": "Triásico superior",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Harpymimus.jpg",
+    "date": "121-99 millones de años"
   },
   {
-    "name": "hesperosaurus",
-    "": ""
+    "id":131,
+    "name": "Hesperosaurio",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
+    "era": "Jurásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Hesperosaurus.jpg",
+    "date": "154-142 millones de años"
   },
   {
-    "name": "heterodontosaurus",
-    "": ""
+    "id":132,
+    "name": "Heterodontosaurio",
+    "is_dino": "Pequeño ornitisquio",
+    "diet": "Herbívoro",
+    "era": "Jurásico temprano",
+    "found": "Lesoto , Sudáfrica",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/hetero.jpg",
+    "date": "205 millones de años"
   },
   {
-    "name": "heyuannia",
-    "": ""
+    "id":132,
+    "name": "Heterodontosaurio",
+    "is_dino": "Pequeño ornitisquio",
+    "diet": "Herbívoro",
+    "era": "Jurásico temprano",
+    "found": "Lesoto , Sudáfrica",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/hetero.jpg",
+    "date": "205 millones de años"
   },
   {
     "name": "homalocephale",
