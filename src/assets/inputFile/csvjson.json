@@ -1100,33 +1100,63 @@
   },
   {
     "id":111,
-    "name": "gargoyleosaurus",
-    "": ""
+    "name": "Gargoyleosaurus",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
+    "era": "Jurásico tardío",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gargoyleosaurus.jpg",
+    "date": "154-142 millones de años"
   },
   {
     "id":112,
-    "name": "garudimimus",
-    "": ""
+    "name": "Garudimimus",
+    "is_dino": "Gran terópodo",
+    "diet": "Omnívoro",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Garudimimus.jpg",
+    "date": "99-89 millones de años"
   },
   {
     "id":113,
-    "name": "gasosaurus",
-    "": ""
+    "name": "Gasosaurio",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
+    "era": "Jurásico medio",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/gaso.jpg",
+    "date": "170-160 millones de años"
   },
   {
     "id":114,
-    "name": "gasparinisaura",
-    "": ""
+    "name": "Gasparinisaura",
+    "is_dino": "Pequeño ornitópodo",
+    "diet": "Herbívoro",
+    "era": "Cretácico superior",
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gasparinisaura.jpg",
+    "date": "86-71 millones de años"
   },
   {
     "id":115,
-    "name": "gastonia",
-    "": ""
+    "name": "Gastonía",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
+    "era": "Cretácico temprano",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gastonia.jpg",
+    "date": "142-127 millones de años"
   },
   {
     "id":116,
-    "name": "giganotosaurus",
-    "": ""
+    "name": "Gastonía",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
+    "era": "Cretácico temprano",
+    "found": "EE.UU",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gastonia.jpg",
+    "date": "142-127 millones de años"
   },
   {
     "id":117,
