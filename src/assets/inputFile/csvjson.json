@@ -1150,18 +1150,23 @@
   },
   {
     "id":116,
-    "name": "Gastonía",
-    "is_dino": "Dinosaurio blindado",
-    "diet": "Herbívoro",
+    "name": "Giganotosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
     "era": "Cretácico temprano",
-    "found": "EE.UU",
-    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gastonia.jpg",
-    "date": "142-127 millones de años"
+    "found": "Argentina",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/giganoto.jpg",
+    "date": "112-90 millones de años"
   },
   {
     "id":117,
-    "name": "gilmoreosaurus",
-    "": ""
+    "name": "Gilmoreosaurio",
+    "is_dino": "Gran ornitópodo",
+    "diet": "Herbívoro",
+    "era": "Cretácico superior",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/gilmore.jpg",
+    "date": "76-70 millones de años"
   },
   {
     "id":118,
