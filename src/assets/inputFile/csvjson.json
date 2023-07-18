@@ -1099,7 +1099,7 @@
     "date": "121-99 millones de años"
   },
   {
-    "id":111,
+    "id": 111,
     "name": "Gargoyleosaurus",
     "is_dino": "Dinosaurio blindado",
     "diet": "Herbívoro",
@@ -1109,7 +1109,7 @@
     "date": "154-142 millones de años"
   },
   {
-    "id":112,
+    "id": 112,
     "name": "Garudimimus",
     "is_dino": "Gran terópodo",
     "diet": "Omnívoro",
@@ -1119,7 +1119,7 @@
     "date": "99-89 millones de años"
   },
   {
-    "id":113,
+    "id": 113,
     "name": "Gasosaurio",
     "is_dino": "Pequeño terópodo",
     "diet": "Carnívoro",
@@ -1129,7 +1129,7 @@
     "date": "170-160 millones de años"
   },
   {
-    "id":114,
+    "id": 114,
     "name": "Gasparinisaura",
     "is_dino": "Pequeño ornitópodo",
     "diet": "Herbívoro",
@@ -1139,7 +1139,7 @@
     "date": "86-71 millones de años"
   },
   {
-    "id":115,
+    "id": 115,
     "name": "Gastonía",
     "is_dino": "Dinosaurio blindado",
     "diet": "Herbívoro",
@@ -1149,7 +1149,7 @@
     "date": "142-127 millones de años"
   },
   {
-    "id":116,
+    "id": 116,
     "name": "Giganotosaurio",
     "is_dino": "Gran terópodo",
     "diet": "Carnívoro",
@@ -1159,7 +1159,7 @@
     "date": "112-90 millones de años"
   },
   {
-    "id":117,
+    "id": 117,
     "name": "Gilmoreosaurio",
     "is_dino": "Gran ornitópodo",
     "diet": "Herbívoro",
@@ -1169,47 +1169,87 @@
     "date": "76-70 millones de años"
   },
   {
-    "id":118,
-    "name": "giraffatitan",
-    "": ""
+    "id": 118,
+    "name": "Giraffatitan",
+    "is_dino": "Saurópodo",
+    "diet": "Herbívoro",
+    "era": "Jurásico tardío",
+    "found": "Tanzania",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Giraffatitan.jpg",
+    "date": "154-142 millones de años"
   },
   {
-    "id":119,
-    "name": "gobisaurus",
-    "": ""
+    "id": 119,
+    "name": "Gobisaurio",
+    "is_dino": "Dinosaurio blindado",
+    "diet": "Herbívoro",
+    "era": "Cretácico temprano",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gobisaurus.jpg",
+    "date": "121-99 millones de años"
   },
   {
-    "id":120,
-    "name": "gorgosaurus",
-    "": ""
+    "id": 120,
+    "name": "Gorgosaurio",
+    "is_dino": "Gran terópodo",
+    "diet": "Carnívoro",
+    "era": "Cretácico temprano",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gorgosaurus.jpg",
+    "date": "80-73 millones de años"
   },
   {
-    "id":121,
-    "name": "goyocephale",
-    "": ""
+    "id": 121,
+    "name": "Goyocéfalo",
+    "is_dino": "Paquicefalosaurio",
+    "diet": "Carnívoro",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Goyocephale.jpg",
+    "date": "81-75 millones de años"
   },
   {
-    "id":122,
-    "name": "graciliceratops",
-    "": ""
+    "id": 122,
+    "name": "Graciliceratops",
+    "is_dino": "Ceratopsiano",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Mongolia",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Graciliceratops.jpg",
+    "date": "99-84 millones de años"
   },
   {
-    "id":123,
-    "name": "gryposaurus",
-    "": ""
+    "id": 123,
+    "name": "Gryposaurus",
+    "is_dino": "Gran ornitópodo",
+    "diet": "herbívoro",
+    "era": "Cretácico superior",
+    "found": "Canadá , Estados Unidos",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Gryposaurus.jpg",
+    "date": "86-71 millones de años"
   },
   {
-    "id":124,
-    "name": "guaibasaurus",
-    "": ""
+    "id": 124,
+    "name": "Guaibasaurio",
+    "is_dino": "Prosaurópodo",
+    "diet": "herbívoro",
+    "era": "Triásico tardío",
+    "found": "Brasil",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Guaibasaurus.jpg",
+    "date": "221-210 millones de años"
   },
   {
-    "id":125,
-    "name": "guanlong",
-    "": ""
+    "id": 125,
+    "name": "Guanlong",
+    "is_dino": "Pequeño terópodo",
+    "diet": "Carnívoro",
+    "era": "Jurásico tardío",
+    "found": "Porcelana",
+    "img": "https://www.nhm.ac.uk/resources/nature-online/life/dinosaurs/dinosaur-directory/images/reconstruction/small/Guanlong.jpg",
+    "date": "159-154 millones de años"
   },
   {
-    "id":126,
+    "id": 126,
     "name": "Hadrosaurio",
     "is_dino": "Gran ornitópodo",
     "diet": "Herbívoro",
@@ -1219,7 +1259,7 @@
     "date": "78-74 millones de años"
   },
   {
-    "id":127,
+    "id": 127,
     "name": "Hagrifo",
     "is_dino": "Pequeño terópodo",
     "diet": "Omnívoro",
@@ -1229,7 +1269,7 @@
     "date": "Desconocido"
   },
   {
-    "id":128,
+    "id": 128,
     "name": "Haplocantosaurio",
     "is_dino": "Saurópodo",
     "diet": "Herbívoro",
@@ -1239,7 +1279,7 @@
     "date": "154-142 millones de años"
   },
   {
-    "id":129,
+    "id": 129,
     "name": "Harpimimo",
     "is_dino": "Pequeño terópodo",
     "diet": "Omnívoro",
@@ -1249,7 +1289,7 @@
     "date": "121-99 millones de años"
   },
   {
-    "id":130,
+    "id": 130,
     "name": "Herrerasaurio",
     "is_dino": "Dinosaurio primitivo",
     "diet": "Carnívoro",
@@ -1259,7 +1299,7 @@
     "date": "121-99 millones de años"
   },
   {
-    "id":131,
+    "id": 131,
     "name": "Hesperosaurio",
     "is_dino": "Dinosaurio blindado",
     "diet": "Herbívoro",
@@ -1269,7 +1309,7 @@
     "date": "154-142 millones de años"
   },
   {
-    "id":132,
+    "id": 132,
     "name": "Heterodontosaurio",
     "is_dino": "Pequeño ornitisquio",
     "diet": "Herbívoro",
@@ -1279,7 +1319,7 @@
     "date": "205 millones de años"
   },
   {
-    "id":132,
+    "id": 132,
     "name": "Heterodontosaurio",
     "is_dino": "Pequeño ornitisquio",
     "diet": "Herbívoro",
