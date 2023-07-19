@@ -10,6 +10,5 @@ export class HomePage {
   constructor(private router: Router) {}
   goToHome(){
     this.router.navigate(['/userslist']);
-  
   }
 }
